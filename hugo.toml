@@ -1,0 +1,4 @@
+baseURL = 'https://openxdu.github.io'
+languageCode = 'en-us'
+title = "xdu's workspace"
+theme = 'ananke'
